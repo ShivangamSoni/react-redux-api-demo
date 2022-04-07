@@ -1,0 +1,6 @@
+const SITE_ACTION_TYPES = Object.freeze({
+  STORE_SITE_NAV: "STORE_SITE_NAV",
+  SET_ACTIVE_ITEM: "SET_ACTIVE_ITEM",
+});
+
+export default SITE_ACTION_TYPES;
